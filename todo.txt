@@ -1,0 +1,5 @@
+routing 
+styling 
+layout 
+functionality
+api intergration

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Photography",
+    "description": "The art of capturing moments through a lens, photography allows you to see the world from unique perspectives.",
+    "image": "camera",
+    "url": "Photography"
+  },
+  {
+    "title": "Traveling",
+    "description": "Exploring new places, cultures, and cuisines from around the world is a thrilling and enriching experience.",
+    "image": "car",
+    "url": "Traveling"
+  },
+  {
+    "title": "Gardening",
+    "description": "Nurturing plants and flowers, gardening is a relaxing and rewarding hobby that brings nature closer to home.",
+    "image": "garden",
+    "url": "Gardening"
+  },
+  {
+    "title": "Cooking",
+    "description": "A creative and satisfying way to express yourself, cooking allows you to experiment with flavors and techniques.",
+    "image": "cooking",
+    "url": "Cooking"
+  },
+  {
+    "title": "Reading",
+    "description": "From fiction to self-development, reading opens up a world of knowledge, imagination, and personal growth.",
+    "image": "book",
+    "url": "Reading"
+  },
+  {
+    "title": "Hiking",
+    "description": "Hiking is a perfect way to connect with nature and challenge your physical fitness, while enjoying stunning landscapes.",
+    "image": "hiking",
+    "url": "Hiking"
+  },
+  {
+    "title": "Coding",
+    "description": "The power to build and create digital solutions, coding is both a skill and a passion for technology enthusiasts.",
+    "image": "coding",
+    "url": "Coding"
+  },
+  {
+    "title": "Music",
+    "description": "Whether you're playing an instrument or listening, music is a universal language that brings joy and emotional expression.",
+    "image": "music",
+    "url": "Music"
+  },
+  {
+    "title": "Painting",
+    "description": "Expressing creativity through colors and brushes, painting is a form of artistic expression that transcends words.",
+    "image": "painting",
+    "url": "Painting"
+  },
+  {
+    "title": "Fitness",
+    "description": "A lifestyle that promotes health and wellness, fitness involves physical activities like running, lifting, and yoga.",
+    "image": "excersize",
+    "url": "Fitness"
+  }
+]
